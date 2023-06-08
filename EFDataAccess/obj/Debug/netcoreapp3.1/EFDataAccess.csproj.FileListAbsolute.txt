@@ -1,0 +1,52 @@
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.deps.json
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.runtimeconfig.json
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.runtimeconfig.dev.json
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.pdb
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CopyComplete
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.pdb
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.genruntimeconfig.cache
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\IVAN\Desktop\ProjekatASP\EFDataAccess\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.deps.json
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.runtimeconfig.json
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.runtimeconfig.dev.json
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.pdb
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csprojAssemblyReference.cache
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfo.cs
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CopyComplete
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.pdb
+C:\Users\IVAN\Desktop\ProjectASPApi\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.genruntimeconfig.cache
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.deps.json
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.runtimeconfig.json
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.runtimeconfig.dev.json
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\EFDataAccess.pdb
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.AssemblyReference.cache
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.AssemblyInfo.cs
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.csproj.CopyComplete
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.dll
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.pdb
+C:\Users\win7.win7-PC\Desktop\zemun asp\BibliotekaApi-master\EFDataAccess\obj\Debug\netcoreapp3.1\EFDataAccess.genruntimeconfig.cache
